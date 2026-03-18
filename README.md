@@ -1,6 +1,6 @@
-# 🎮 Website Top Up Game Tanpa Deposit (Free Balance System)
+# 🎮 Website Top Up Game Tanpa Deposit
 
-Website top up game tanpa deposit adalah platform otomatis untuk pembelian item game seperti Diamond ML, Free Fire, dan lainnya tanpa perlu melakukan pembayaran langsung, menggunakan sistem saldo gratis, reward, atau event tertentu.
+Website top up game tanpa deposit adalah platform otomatis untuk pembelian item game seperti Diamond ML, Free Fire, dan lainnya tanpa perlu melakukan pembayaran langsung
 
 👉 **Demo & Info Lengkap:**  
 🔗 https://cekstore.com/p/web-top-up-game-tanpa-deposit  
@@ -10,9 +10,9 @@ Website top up game tanpa deposit adalah platform otomatis untuk pembelian item 
 
 ## 🚀 Fitur Unggulan
 
-- ⚡ Top up game otomatis (real-time)
-- 💰 Tanpa deposit (free balance system)
-- 🎁 Reward harian & bonus saldo
+- ⚡ Top up game otomatis
+- 💰 Tanpa deposit
+- 🎁 Tanpa coding
 - 👥 Sistem referral
 - 📊 Dashboard user & riwayat transaksi
 - 🛠️ Admin panel lengkap
@@ -26,23 +26,22 @@ Website top up game tanpa deposit adalah platform otomatis untuk pembelian item 
 ### 🏠 Tampilan Produk
 ![Top Up Game](https://cekstore.com/assets/images/product/1773593215407.png)
 
-### 🛒 Halaman Top Up
+### 🛒 Halaman Invoice
 ![Top Up Page](https://cekstore.com/assets/images/product/17735932154073.png)
 
-### 📊 Sistem Website
+### 📊 Halaman Order
 ![System](https://cekstore.com/assets/images/product/17735932154074.png)
 
-### ⚙️ Admin Panel
+### ⚙️ Halaman Layanan
 ![Admin Panel](https://cekstore.com/assets/images/product/17735932154075.png)
 
 ---
 
 ## 🧩 Teknologi
 
-- Backend: PHP (CodeIgniter 4 / Laravel)
-- Frontend: HTML, CSS, JavaScript
+- Backend: PHP (CodeIgniter 4)
+- Frontend: [AlpineJs / Tailwind CSS]
 - Database: MySQL
-- API: Digiflazz / VIP-Reseller / lainnya
 - Server: Apache / Nginx
 
 ---
